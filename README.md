@@ -68,10 +68,24 @@ VITE_GEMINI_API_KEY=your_gemini_key
 ```bash
    npm run dev
 ```
-
 ## Screenshots
 
-*(Screenshots added in `/screenshots` folder)*
+![Landing Page](./screenshots/landing.png)
+![Login](./screenshots/login.png)
+![Dashboard](./screenshots/dashboard.png)
+![Complaint Form](./screenshots/complaintForm.png)
+![SOS Page](./screenshots/SOS.png)
+![Captain Dashboard](./screenshots/captainDash.png)
+
+## Team
+[Your names / roll numbers here]
+
+## Future Improvements
+- Cryptographic anonymity pipeline for complaints
+- EXIF metadata stripping on photo evidence
+- Line-of-sight seating optimization algorithm
+- Semantic (embedding-based) rule fact-checking
+- Real-time push notifications for SOS (vs. current Firestore listener approach)
 
 ## Team
 [Your names / roll numbers here]
